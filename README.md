@@ -16,6 +16,7 @@
 
 ## 待优化
 1.部分结构设计不合理或是无法满足稳定固定的需求，需要重新设计部分零件结构或固定方式
+
 2.加工图纸形位公差及尺寸公差设计不合理
 <img width="704" height="662" alt="1" src="https://github.com/user-attachments/assets/42c06adc-82f6-41c8-a4e6-c8f2fcc4eb9d" />
 <img width="873" height="683" alt="2" src="https://github.com/user-attachments/assets/4792041b-c052-498b-be2a-d21767bd9395" />
